@@ -299,7 +299,7 @@ main{
 }
 
 .parent-container[data-hero-container="cpt"] .container .hero-img span::after{
-    content: "Eu sou o Steve Bot!";
+    content: "Eu sou o Capitão Crisanto!";
     color: var(--blue-color);
 }
 

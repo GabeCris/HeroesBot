@@ -7,6 +7,7 @@
 </p>
 <hr>
 
+<img src="./assets/HeroBots.gif">
 ## - Projeto Landing Page - 
 <br>
 Neste projeto resolvi aceitar o desafio da RAFA BALLERINI e recriar a partir do layout dela, a minha própria Landing Page sobre bots do discord! Apenas com HTML e CSS
